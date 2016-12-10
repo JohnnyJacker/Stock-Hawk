@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="true">Stock Hawk</string>
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="action_change_units" translatable="false">Change Units</string>
+    <string name="symbol_search" translatable="true">Symbol Search</string>
+    <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill" translatable="false"></string>
+    <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+    <string name="stock_error" translatable="true">This stock does not exist</string>
+    <string name="existing_stock" translatable="true">This stock is already saved!</string>
+    <string name="batch_insert_error" translatable="true">Error applying batch insert</string>
+    <string name="stock_symbol" translatable="false">Stock Symbol</string>
+    <string name="bid_price" translatable="false">Bid Price</string>
+    <string name="change" translatable="false">Change</string>
+    <string name="add_stock" translatable="true">Add Stock</string>
+    <string name="title_activity_historical" translatable="true">Historical</string>
+    <string name="string_symbol" translatable="false">symbol</string>
+    <string name="one_week" translatable="true">1-Week</string>
+    <string name="one_month" translatable="true">1-Month</string>
+    <string name="one_year" translatable="true">1-Year</string>
+    <string name="title_widget" translatable="true">Your Stocks</string>
+    <string name="string_set_background_resource" translatable="false">setBackgroundResource</string>
+
+
+</resources>
