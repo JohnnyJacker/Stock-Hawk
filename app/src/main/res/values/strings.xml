@@ -21,6 +21,8 @@
     <string name="one_year" translatable="true">1-Year</string>
     <string name="title_widget" translatable="true">Your Stocks</string>
     <string name="string_set_background_resource" translatable="false">setBackgroundResource</string>
+    <string name="try_again" translatable="true">Try Again</string>
+    <string name="no_internet_connection" translatable="true">No Internet Connection</string>
 
 
 </resources>

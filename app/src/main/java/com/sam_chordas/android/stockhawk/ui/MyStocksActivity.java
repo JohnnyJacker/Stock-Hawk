@@ -243,8 +243,8 @@ public class MyStocksActivity extends AppCompatActivity implements LoaderManager
         if (!isConnected) {
 
             coordinationLayout = (CoordinatorLayout) findViewById(R.id.coordinationLayout);
-            Snackbar snackbar = Snackbar.make(coordinationLayout, "No Internet Connection", Snackbar.LENGTH_INDEFINITE)
-                    .setAction("Try Again", new View.OnClickListener() {
+            Snackbar snackbar = Snackbar.make(coordinationLayout, R.string.no_internet_connection, Snackbar.LENGTH_INDEFINITE)
+                    .setAction(R.string.try_again, new View.OnClickListener() {
 
                         @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN)
                         @Override
